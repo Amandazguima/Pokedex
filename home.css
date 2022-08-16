@@ -1,0 +1,13 @@
+.header-title{
+background-color: black;
+color:aliceblue;
+text-align:center;
+font-family:'Lato';
+width: 100%;
+border: 0%;
+}
+html,body{
+    margin:0 !important;
+    padding:0 !important;
+
+}
